@@ -26,7 +26,7 @@ Urban areas face increasing challenges with traffic congestion. This project add
 
 ## System Architecture
 
-![System Architecture](path/to/architecture-image.png)
+![System Architecture](https://github.com/tusharsachan15/Real-Time-Traffic-Flow-Prediction-with-Drones-and-Adaptive-Signal-Control/blob/main/Frontend/Figures/Architecture%20Diagram.png)
 
 ---
 
@@ -37,13 +37,28 @@ Urban areas face increasing challenges with traffic congestion. This project add
 - **Pixhawk Flight Controller**: Ensures smooth drone operation.
 - **Wireless Communication Modules**: For seamless connectivity.
 
-![Hardware Components](path/to/hardware-image.png)
+![Hardware Components](https://github.com/tusharsachan15/Real-Time-Traffic-Flow-Prediction-with-Drones-and-Adaptive-Signal-Control/blob/main/Frontend/Figures/Hardware.png)
 
 ---
 
 ## Output Example
 
-![Output Example](path/to/output-image.png)
+### Web Application
+![Web Application](https://github.com/tusharsachan15/Real-Time-Traffic-Flow-Prediction-with-Drones-and-Adaptive-Signal-Control/blob/main/Frontend/Figures/Webapp.png)
+*Preview*: Displays the web application interface used for monitoring and control.
+
+### Red Light
+![Red Light](https://github.com/tusharsachan15/Real-Time-Traffic-Flow-Prediction-with-Drones-and-Adaptive-Signal-Control/blob/main/Frontend/Figures/Red%20light.png)
+*Preview*: Example of a red light scenario captured by the system.
+
+### Less Traffic
+![Less Traffic](https://github.com/tusharsachan15/Real-Time-Traffic-Flow-Prediction-with-Drones-and-Adaptive-Signal-Control/blob/main/Frontend/Figures/Less%20traffic.png)
+*Preview*: Demonstrates the system’s response during low traffic conditions.
+
+### Heavy Traffic
+![Heavy Traffic](https://github.com/tusharsachan15/Real-Time-Traffic-Flow-Prediction-with-Drones-and-Adaptive-Signal-Control/blob/main/Frontend/Figures/Heavy%20traffic.png)
+*Preview*: Highlights the system’s action during high traffic scenarios.
+
 
 ---
 
@@ -94,39 +109,12 @@ Urban areas face increasing challenges with traffic congestion. This project add
    Set up the Raspberry Pi to process traffic data locally and control signals.
 
 
-## Contributing
+## Contribution Guidelines
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
-We welcome contributions from developers and researchers interested in enhancing this project. To contribute, follow these steps:
+Contributions to the project are encouraged! Whether you're interested in adding new features, fixing bugs, or improving documentation, please submit pull requests. Follow the contribution guidelines outlined in `CONTRIBUTING.md`.
 
-### Fork the Repository
+## Contact
 
-1. Click the **"Fork"** button at the top of this repository.
-2. Clone the forked repository to your local machine:
+For any questions, suggestions, or further assistance, feel free to reach out:
 
-   ```bash
-   git clone https://github.com/your-username/Real-Time-Traffic-Flow-Prediction.git
-
-### Create a New Branch
-
-1. Create a new branch for your feature or fix:
-   
-   ```bash
-   git checkout -b feature-name
-   
-#### Commit Your Changes
-
-1. Make your changes to the codebase.
-2. Ensure your code is well-documented and adheres to the project guidelines.
-3. Commit your changes with a descriptive commit message:
-   
-   ```bash
-   git commit -m "Add feature description"
-   
-### Push to Your Fork
-1. Push the changes to your forked repository:
-   
-   ```bash
-   git push origin feature-name
-   
-### Submit a Pull Request
+- **Email**: [tusharsachan2002@gmail.com](mailto:tusharsachan2002@gmail.com) [canankushdoit@gmail.com](mailto:canankushdoit@gmail.com)
