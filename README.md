@@ -1,6 +1,6 @@
 # Real-Time Traffic Flow Prediction with Drones and Adaptive Signal Control
 
-This project utilizes drone technology, YOLOv8 object detection, and machine learning to predict traffic flow and manage traffic signals dynamically. By integrating aerial surveillance, ground-level data, and regression models, it offers a scalable solution for urban traffic management.
+This project utilizes drone technology, YOLOv8 object detection, and machine learning to predict traffic flow and manage traffic signals dynamically. By integrating aerial surveillance, and regression models, it offers a scalable solution for urban traffic management.
 
 ---
 
